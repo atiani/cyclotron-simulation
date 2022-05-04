@@ -7,6 +7,6 @@
 #### IDE : Adobe Animate cc 2022 
 #### SDK : AIR SDK 33.1.1.821
 
-##### release ver1.0.0 now available you can download now 
+##### release ver1.0.0 now available you can download it now  Click [here](https://github.com/atiani/cyclotron-simulation/releases/tag/v1.0.0)
 
  
