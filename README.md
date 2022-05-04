@@ -1,4 +1,5 @@
 # cyclotron-simulation ver 1.0 
+كحاكاة مبدأ عمل السيكلترون - المبحث الفزياء - الصف الثاني عشر العلمي - المنهاح الفلسطيني 
 
 ![hr1](https://user-images.githubusercontent.com/78841476/166112701-de7556a4-d0fa-46bb-a032-a5ab1e75264d.png)
 
